@@ -6,3 +6,5 @@ let d = date.getDate();
 
 let fullDate = y + '-' + M + '-' + d;
 console.log(fullDate);
+
+document.getElementById("#date_").innerHTML = fullDate;
