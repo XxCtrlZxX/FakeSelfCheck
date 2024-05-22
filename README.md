@@ -1,3 +1,3 @@
 # FakeSelfCheck
 
-https://xxctrlzxx.github.io/FakeSelfCheck/
+https://cometj03.github.io/FakeSelfCheck/
